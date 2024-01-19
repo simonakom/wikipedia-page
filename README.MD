@@ -5,4 +5,4 @@ This assignment is about creating an html file and practising html text formatti
 
 
 
-<h4>• Wikipedia page sample - <a href="https://simonakom.github.io/Namu-darbai/1-wikipedia-page/richard-gere.html" style="font-size:small;">View</a><h4>
+<h4>🔹 Wikipedia page sample - <a href="https://simonakom.github.io/Namu-darbai/1-wikipedia-page/richard-gere.html" style="font-size:small;">View</a><h4>

@@ -6,7 +6,7 @@ This assignment is about creating an html file and practising html text formatti
 
 
 
-<a href="https://www.wiki-calendar.com/wp-content/uploads/2023/09/2024-Calendar.png" style="font-size:small;">View</a><h4>
+<a href="https://en.wikipedia.org/wiki/Richard_Gere" style="font-size:small;">View</a><h4>
 
 
 
